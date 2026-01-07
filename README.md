@@ -38,6 +38,21 @@ Beyond GrabNGo, I build various utilities for automation and system management:
 * **Repository Tools:** [red-tools](https://github.com/Root-Fl4g/red-tools?tab=readme-ov-file)
 
 ---
+
+
+## 📈 My Activity & Status
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Maintained-Yes-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GrabNGo-Awesome-success?style=for-the-badge&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Root-Fl4g&color=green&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+</p>
+
+---
+
 *"Building things that make a difference, one commit at a time."*
 <!--
 **Root-Fl4g/Root-Fl4g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
