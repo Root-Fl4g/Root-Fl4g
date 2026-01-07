@@ -30,10 +30,9 @@ Beyond GrabNGo, I build various utilities for automation and system management:
 ---
 
 
-## 📈 My Activity & Status
+
 <p align="center">
-  <img src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square&color=green
-" />
+  <img src="https://img.shields.io/badge/License-GPLv3-green?style=flat-square" alt="License: GPL v3">
   <img src="https://img.shields.io/badge/Maintained-Yes-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GrabNGo-Awesome-success?style=for-the-badge&logo=github" />
 </p>
