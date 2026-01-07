@@ -21,8 +21,8 @@ Beyond GrabNGo, I build various utilities for automation and system management:
 ---
 
 ## 📫 How to reach me
-* **Email:** [Link Kamu]
-* **Website/Blog:** [Link Kamu]
+* **Instagram:** []
+* **Website/Blog:** [https://linktr.ee/root.fla]
 
 ---
 *"Building things that make a difference, one commit at a time."*
