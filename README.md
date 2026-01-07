@@ -1,3 +1,10 @@
+
+
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Project](https://img.shields.io/badge/GrabNGo-Awesome-brightgreen)
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Lab&fontSize=70" width="100%" />
 </p>
