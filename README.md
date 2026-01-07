@@ -1,15 +1,5 @@
 
 
-![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Project](https://img.shields.io/badge/GrabNGo-Awesome-brightgreen)
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Lab&fontSize=70" width="100%" />
-</p>
-
-
 # Hi there 👋
 
 I'm a junior cybersecurity
@@ -42,13 +32,10 @@ Beyond GrabNGo, I build various utilities for automation and system management:
 
 ## 📈 My Activity & Status
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square&color=green
+" />
   <img src="https://img.shields.io/badge/Maintained-Yes-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GrabNGo-Awesome-success?style=for-the-badge&logo=github" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Root-Fl4g&color=green&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
 
 ---
