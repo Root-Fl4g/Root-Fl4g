@@ -1,4 +1,4 @@
-# Hi there, I'm [William Nathanael/Will] 👋
+# Hi there, I'm William Nathanael/Will 👋
 
 I'm a junior cybersecurity
 ## 🚀 Featured Project: GrabNGo
@@ -17,14 +17,11 @@ Beyond GrabNGo, I build various utilities for automation and system management:
 * **System Utilities:** Scripts to make life easier.
 * **Experiments:** Testing new ideas in the open-source world.
 
-## 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Root-Fl4g&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Root-Fl4g&layout=compact&theme=radical)
 
 ---
 
 ## 📫 How to reach me
-* **LinkedIn:** [Link Kamu]
+* **Email:** [Link Kamu]
 * **Website/Blog:** [Link Kamu]
 
 ---
