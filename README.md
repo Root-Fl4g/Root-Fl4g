@@ -1,4 +1,4 @@
-# Hi there, I'm William Nathanael/Will 👋
+# Hi there 👋
 
 I'm a junior cybersecurity
 ## 🚀 Featured Project: GrabNGo
@@ -6,7 +6,7 @@ My current main focus is **GrabNGo**, a smart recovery tool designed to rescue f
 
 * **Smart Recovery:** Intelligent scanning and restoration.
 * **Open Source:** Built for the community.
-* **Get it here:** ![GrabNGo.exe]()
+* **Get it here:** [GrabNGo.exe]()
 
 ---
 
@@ -21,8 +21,8 @@ Beyond GrabNGo, I build various utilities for automation and system management:
 ---
 
 ## 📫 How to reach me
-* **Instagram:** ![root.flag](https://www.instagram.com/root.flag)
-* **Linktr.ee:** ![root.flag](https://linktr.ee/root.fla)
+* **Instagram:** [root.flag](https://www.instagram.com/root.flag)
+* **Linktr.ee:** [root.flag](https://linktr.ee/root.fla)
 
 ---
 *"Building things that make a difference, one commit at a time."*
