@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Lab&fontSize=70" width="100%" />
+</p>
+
+
 # Hi there 👋
 
 I'm a junior cybersecurity
