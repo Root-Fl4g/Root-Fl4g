@@ -21,7 +21,7 @@ As part of my learning process, I build utilities to solve real problems. **Grab
 
 * **Smart Recovery:** Intelligent scanning and restoration.
 * **Open Source:** Built for the community.
-* **Get it here:** [GrabNGo.exe]()
+* **Get it here:** [GrabNGo.exe](GrabNGo/GrabNGo.zip)
 
 ---
 
