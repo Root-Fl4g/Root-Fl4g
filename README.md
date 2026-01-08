@@ -21,7 +21,7 @@ As part of my learning process, I build utilities to solve real problems. **Grab
 
 * **Smart Recovery:** Intelligent scanning and restoration.
 * **Open Source:** Built for the community.
-* **Get it here:** [GrabNGo.exe](red-tools/GrabNGo/GrabNGo.zip)
+* **Get it here:** [GrabNGo.exe](https://github.com/Root-Fl4g/red-tools/blob/40209a4fd0a9227683f36c3294c18717ca2b89de/GrabNGo/GrabNGo.zip)
 
 ---
 
