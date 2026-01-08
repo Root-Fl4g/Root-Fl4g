@@ -25,17 +25,12 @@ Beyond GrabNGo, I build various utilities for automation and system management:
 ## 📫 How to reach me
 * **Instagram:** [root.flag](https://www.instagram.com/root.flag)
 * **Linktr.ee:** [root.flag](https://linktr.ee/root.fla)
-* **Repository Tools:** [red-tools](https://github.com/Root-Fl4g/red-tools?tab=readme-ov-file)
+* **RepoTools:** [red-tools](https://github.com/Root-Fl4g/red-tools?tab=readme-ov-file)
 
 ---
 
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/License-GPLv3-green?style=flat-square" alt="License: GPL v3">
-  <img src="https://img.shields.io/badge/Maintained-Yes-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GrabNGo-Awesome-success?style=for-the-badge&logo=github" />
-</p>
 
 ---
 
