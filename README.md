@@ -8,7 +8,7 @@ I'm currently on a journey to **master the art of cybersecurity**. My focus isn'
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Root-Fl4g&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Root-Fl4g&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Root-Fl4g&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![https://www.google.com](https://github-readme-stats.vercel.app/api/top-langs/?username=Root-Fl4g&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ---
